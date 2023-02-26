@@ -18,7 +18,7 @@ Karen is creating a ticket, the help topic is "Business Critical Outage" because
 <p>
 </p>
 <p>
-Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. 
+Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. It is important to note that the Queue managers may also assign the tickets to those based on expertise. 
 </p>
 <br />
 <p>
